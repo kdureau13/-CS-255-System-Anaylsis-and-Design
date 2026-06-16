@@ -17,4 +17,5 @@ I would revise the UML diagrams in the System Design Document by adding more det
 I interpreted the user’s needs by focusing on the problems DriverPass wanted to solve, such as helping students pass driving tests and providing easier access to training resources. Considering user needs is important because a system must be practical, easy to use, and provide the features that solve the actual problems users experience.
 
 #How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
 I approach software design by first understanding the user requirements, identifying system functions, and then creating models that show how the system will operate. In the future, I would continue using techniques such as requirements gathering, UML diagrams, user feedback, and iterative improvements to create systems that are efficient and user-focused.
